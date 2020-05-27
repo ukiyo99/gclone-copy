@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf gd.sh
-wget https://raw.githubusercontent.com/cgkings/gclone-assistant/master/gd.sh
+wget https://raw.githubusercontent.com/ukiyo99/gclone-copy/master/gd.sh?token=AMSDTNSIN4HORJ7HDAVHSX26ZYV36
 echo "【gclone懒人一键转存脚本】系统配置"
 echo "输入配置gclone的名称"
 read -p "gclone config Name:" gclone
